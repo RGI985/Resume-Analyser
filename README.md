@@ -4,7 +4,7 @@ This project contains two Streamlit applications that use Ollama, FAISS, and PDF
 
 ## Included Apps
 
-- `voice_app.py`
+- `voice_app.py` voice mode
   - Voice-enabled PDF question-answering agent.
   - Upload a PDF, index its pages with embeddings, ask questions via a chat interface, and hear spoken answers.
 
